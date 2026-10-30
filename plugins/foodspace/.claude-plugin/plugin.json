@@ -1,0 +1,12 @@
+{
+  "name": "foodspace",
+  "displayName": "Foodspace",
+  "version": "1.1.0",
+  "description": "Family food diary and recipe book of the Burykin family: log meals from photos and text, nutrition labels, recipes, daily KBZhU and your diary widgets right in the chat.",
+  "author": {
+    "name": "Oleksandr Burykin"
+  },
+  "homepage": "https://food.leburykina.com/connect",
+  "license": "MIT",
+  "keywords": ["food", "diary", "nutrition", "recipes", "mcp"]
+}

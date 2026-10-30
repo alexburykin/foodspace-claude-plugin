@@ -1,0 +1,14 @@
+{
+  "name": "burykin-foodspace",
+  "description": "Foodspace: сімейний щоденник їжі та книга рецептів Бурикіних для Claude",
+  "owner": {
+    "name": "Oleksandr Burykin"
+  },
+  "plugins": [
+    {
+      "name": "foodspace",
+      "source": "./plugins/foodspace",
+      "description": "Щоденник їжі за фото й текстом, етикетки, рецепти, КБЖУ дня і твої віджети прямо в чаті"
+    }
+  ]
+}
