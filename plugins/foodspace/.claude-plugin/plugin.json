@@ -1,8 +1,8 @@
 {
   "name": "foodspace",
   "displayName": "Foodspace",
-  "version": "1.1.0",
-  "description": "Family food diary and recipe book of the Burykin family: log meals from photos and text, nutrition labels, recipes, daily KBZhU and your diary widgets right in the chat.",
+  "version": "1.2.0",
+  "description": "Food diary, recipes and the weekly menu of your household: log meals from photos and text, nutrition labels, recipes, the week plan and shopping list, daily KBZhU and your diary widgets right in the chat.",
   "author": {
     "name": "Oleksandr Burykin"
   },
